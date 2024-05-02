@@ -1,6 +1,6 @@
 ## cckat - CryptoCurrency Keys and Addresses Tools
 
-Lightweight golang library for generation, format conversion and other operations on private keys, public keys and cryptocurrency addresses using Secp256k1 elliptic curve e.g. for Bitcoin and Ethereum.
+A lightweight golang library for generation, format conversion and other operations on private keys, public keys and cryptocurrency addresses using the Secp256k1 elliptic curve e.g. for Bitcoin and Ethereum.
 
 * Key generation with the possibility of using an additional source of entropy (e.g. file with random data) and mixing it with rand.Reader.
 See [ https://datatracker.ietf.org/doc/html/rfc4086#section-5.1](https://datatracker.ietf.org/doc/html/rfc4086#section-5.1);
