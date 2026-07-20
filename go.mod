@@ -1,7 +1,7 @@
 module github.com/deniszs/cckat
 
-go 1.24.2
+go 1.25.0
 
-require golang.org/x/crypto v0.37.0
+require golang.org/x/crypto v0.54.0
 
-require golang.org/x/sys v0.32.0 // indirect
+require golang.org/x/sys v0.47.0 // indirect
